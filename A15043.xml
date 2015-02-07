@@ -136,14 +136,17 @@ Whetstons, Gent.</p>
             <p>¶Imprinted at London by
 <hi>Iohn Charlewood.</hi>
             </p>
-            <figure>
-               <p>The Right Hon<hi rend="sup">ble</hi>. Charles <gap reason="illegible" resp="#TECH" extent="1 word">
-                     <desc>〈◊〉</desc>
-                  </gap> Bruce
+            <p>
+               <pb facs="tcp:11968:2"/>
+               <figure>
+                  <p>The Right Hon<hi rend="sup">ble</hi>. Charles <gap reason="illegible" resp="#TECH" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Bruce
 of Ampthill (Son and Heir Apparent
 of Thomas Earl of Ailesbury) and Baron
 Bruce of Whorleton 1712</p>
-            </figure>
+               </figure>
+            </p>
          </div>
          <div type="dedication">
             <pb facs="tcp:11968:2"/>
